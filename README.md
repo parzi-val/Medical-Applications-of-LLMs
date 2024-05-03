@@ -10,7 +10,9 @@ The model used in this project is the pretrained gpt-2 model. The dataset is a r
 
 ## Examples
 
-![example 1](https://i.imgur.com/qOC0AxE.png)
+| ![Interface Example 1](https://i.imgur.com/mEXd4Gf.png) | ![Interface Example 2](https://i.imgur.com/6WAWCq8.png) |
+| :-----------------------------------------------------: | :-----------------------------------------------------: |
+|                   Interface Example 1                   |                   Interface Example 2                   |
 
 ![example 2](https://i.imgur.com/Ka5nm2J.png)
 
